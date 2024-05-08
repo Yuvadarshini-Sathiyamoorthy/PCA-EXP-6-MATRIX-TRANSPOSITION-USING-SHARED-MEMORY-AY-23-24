@@ -1,8 +1,7 @@
 # PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
-```
-NAME: Yuvadarshini S
-REGISTER NO :212221230126
-```
+
+<h3>NAME: Yuvadarshini S</h3>
+<h3>REGISTER NO :212221230126</h3>
 
 <h1> <align=center> MATRIX TRANSPOSITION USING SHARED MEMORY </h3>
   Implement Matrix transposition using GPU Shared memory.</h3>
